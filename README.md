@@ -5,7 +5,7 @@ Basic 3D world using Three.js.
 - HTML
 - CSS
 - Javascript
-- [Three.js](https://threejs.org/docs)
+- [Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 # Motivation
 I wanted to learn about 3D graphics and gaming. I used this basic world to interact and learn about the Three.js library and play with different aspects of the library.
