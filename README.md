@@ -2,10 +2,10 @@
 Basic 3D world using Three.js. 
 
 ### Technologies, Languages and Libraries Used:
--HTML
--CSS
--Javascript
--[Three.js](https://threejs.org/docs)
+- HTML
+- CSS
+- Javascript
+- [Three.js](https://threejs.org/docs)
 
 # Motivation
 I wanted to learn about 3D graphics and gaming. I used this basic world to interact and learn about the Three.js library and play with different aspects of the library.
